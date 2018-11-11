@@ -1,13 +1,13 @@
-# local-storage
+# @babyeyefe/localstorage
 
 > A simplified `localStorage` API that just works
 
 # Install
 
 ```shell
-npm install @babyeye/localstorage
+npm install @babyeyefe/localstorage
 # or
-yarn add @babyeye/localstorage
+yarn add @babyeyefe/localstorage
 ```
 
 # API
