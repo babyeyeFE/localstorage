@@ -1,8 +1,8 @@
 {
   "name": "@babyeyefe/localstorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simplified localStorage API that just works",
-  "main": "dist/main.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
@@ -21,8 +21,5 @@
     "url": "https://github.com/babyeyeFE/localstorage/issues"
   },
   "homepage": "https://github.com/babyeyeFE/localstorage#readme",
-  "devDependencies": {
-    "webpack": "^4.25.1",
-    "webpack-cli": "^3.1.2"
-  }
+  "devDependencies": {}
 }

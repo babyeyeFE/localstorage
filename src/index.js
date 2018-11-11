@@ -1,5 +1,5 @@
-const stub = require('./stub')
-const ls = 'localStorage' in global && global.localStorage ? global.localStorage : stub
+var stub = require('./stub')
+var ls = 'localStorage' in global && global.localStorage ? global.localStorage : stub
 
 function accessor (key, value) {
   if (arguments.length === 1) {
