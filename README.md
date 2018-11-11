@@ -102,3 +102,7 @@ ls.clear();
 # License
 
 MIT
+
+# Reference
+
+https://github.com/bevacqua/local-storage
