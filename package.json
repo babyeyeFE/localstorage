@@ -1,6 +1,6 @@
 {
   "name": "@babyeyefe/localstorage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simplified localStorage API that just works",
   "main": "src/index.js",
   "scripts": {
